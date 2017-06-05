@@ -1,0 +1,4 @@
+- video player/ embedded youtube videos
+- monogram on guestbook page
+- need form with time and datestamp for guestbook
+

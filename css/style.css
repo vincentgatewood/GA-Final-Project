@@ -1,0 +1,55 @@
+body {
+    background: url(../images/solidyelloworange.fw.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    height: 20vh;
+    width: 100%;
+    background: url(../images/emersonraeofsunshine_rainbow_v3.png); 
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    
+}    
+.jumbotron {
+    max-height: 20%vh;
+    margin: 0 auto;
+    padding: 2 2;
+    text-align: center;
+    background-color: royalblue;
+}
+.carousel {
+    display: flex;
+    justify-content: center;
+    width: 70vw;
+    max-height: 70vh;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    min-width: 300px;
+}
+.carousel-item {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.navButtons {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#backHomeButton {
+    background-color: orange;
+}
+#aboutEmerson {
+    background-color: red;
+}
+#photoButton {
+    background-color: orange;
+}
+#videoButton {
+    background-color: purple;
+}
+h2 {
+    text-align: center;
+}
